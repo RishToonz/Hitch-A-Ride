@@ -1,0 +1,504 @@
+Using pre-set license
+Built from '2021.1/staging' branch; Version is '2021.1.7f1 (d91830b65d9b) revision 14227504'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Home; OS build 19042.985; Version 2009; 64bit' Language: 'en' Physical Memory: 8060 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2021.1.7f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker3
+-projectPath
+C:/Users/rishi/Desktop/Hitch-A-Ride
+-logFile
+Logs/AssetImportWorker3.log
+-srvPort
+59645
+Successfully changed project path to: C:/Users/rishi/Desktop/Hitch-A-Ride
+C:/Users/rishi/Desktop/Hitch-A-Ride
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 694.00 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2021.1.7f1 (d91830b65d9b)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2021.1.7f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/rishi/Desktop/Hitch-A-Ride/Assets
+GfxDevice: creating device client; threaded=0; jobified=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: Intel(R) UHD Graphics 620 (ID=0x5917)
+    Vendor:   Intel
+    VRAM:     4030 MB
+    Driver:   23.20.16.4973
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2021.1.7f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2021.1.7f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2021.1.7f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56512
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2021.1.7f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2021.1.7f1/Editor/Data/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2021.1.7f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2021.1.7f1/Editor/Data/PlaybackEngines/LinuxStandaloneSupport/UnityEditor.LinuxStandalone.Extensions.dll
+Registered in 0.009744 seconds.
+Native extension for LinuxStandalone target not found
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 280.35 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  6.673 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.008137 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\Users\rishi\Desktop\Hitch-A-Ride\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image C:\Users\rishi\Desktop\Hitch-A-Ride\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for LinuxStandalone target not found
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 318.27 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  4.397 seconds
+Platform modules already initialized, skipping
+Script is not up to date after domain reload: guid(15eaf34440a14edf94d5a0a00cbded20) path("Packages/com.unity.inputsystem/InputSystem/Utilities/NumberHelpers.cs") state(2)
+Script is not up to date after domain reload: guid(8f99eea29fb7e4f7a9c7aad1730f329a) path("Packages/com.unity.inputsystem/InputSystem/Utilities/OneOrMore.cs") state(2)
+Script is not up to date after domain reload: guid(6982a6ffcdbf47a6aa68fd4418622395) path("Packages/com.unity.inputsystem/InputSystem/Devices/Haptics/IDualMotorRumble.cs") state(2)
+Script is not up to date after domain reload: guid(bb4d45fbf0aa84484b251242fdb21800) path("Packages/com.unity.inputsystem/InputSystem/Plugins/Steam/SteamIGAConverter.cs") state(2)
+Script is not up to date after domain reload: guid(0a3e3635b85e2124b9b3147aef1cdc32) path("Packages/com.unity.inputsystem/InputSystem/Plugins/XInput/XInputControllerWindows.cs") state(2)
+Script is not up to date after domain reload: guid(76d591911f4ae4f62953b13f6ff50429) path("Packages/com.unity.inputsystem/InputSystem/Editor/AssetEditor/InputActionTreeViewItems.cs") state(2)
+Script is not up to date after domain reload: guid(6633b33d60f14b81927d89a4b06c8a1f) path("Packages/com.unity.inputsystem/InputSystem/State/InputStateBuffers.cs") state(2)
+Script is not up to date after domain reload: guid(7c6a2891083312645a7be416176261c1) path("Packages/com.unity.inputsystem/InputSystem/Utilities/CSharpCodeHelpers.cs") state(2)
+Script is not up to date after domain reload: guid(760fac1b814a4d99a4fc534934e4dc99) path("Packages/com.unity.inputsystem/InputSystem/Utilities/MemoryHelpers.cs") state(2)
+Script is not up to date after domain reload: guid(ae42a3986cf84fe2aa1df4aa984dd806) path("Packages/com.unity.inputsystem/InputSystem/Plugins/HID/HIDDescriptorWindow.cs") state(2)
+Script is not up to date after domain reload: guid(98a0df93c82e4369b500b62affa160db) path("Packages/com.unity.inputsystem/InputSystem/Utilities/InlinedArray.cs") state(2)
+Script is not up to date after domain reload: guid(6ae082cf4f6634e9d8cdd8526dd816a3) path("Packages/com.unity.inputsystem/InputSystem/Controls/Processors/NormalizeVector2Processor.cs") state(2)
+Script is not up to date after domain reload: guid(d9ce7842660d4bf89a86f378ecffb8f1) path("Packages/com.unity.inputsystem/InputSystem/Events/StateEvent.cs") state(2)
+Script is not up to date after domain reload: guid(2fe2cf22711ac4db3b094a955603f8bd) path("Packages/com.unity.inputsystem/InputSystem/Editor/Internal/AdvancedDropdown/CallbackDataSource.cs") state(2)
+Script is not up to date after domain reload: guid(7ae2dc3fc1c44ea59667819ea1d2e0c5) path("Packages/com.unity.inputsystem/InputSystem/Plugins/XInput/XInputController.cs") state(2)
+Script is not up to date after domain reload: guid(76765a8c5cba74c0abc5ab4afd8266e2) path("Packages/com.unity.inputsystem/InputSystem/Plugins/Users/InputUserAccountHandle.cs") state(2)
+Script is not up to date after domain reload: guid(1659bf437d849824999b2b9ae9e1518b) path("Packages/com.unity.inputsystem/InputSystem/Devices/Commands/QuerySamplingFrequencyCommand.cs") state(2)
+Script is not up to date after domain reload: guid(0fb454a124e8649bb9326261b1739032) path("Packages/com.unity.inputsystem/InputSystem/Editor/Internal/AdvancedDropdown/AdvancedDropdownDataSource.cs") state(2)
+Script is not up to date after domain reload: guid(dbce6ac3ce95e4e28af8b2212171619a) path("Packages/com.unity.inputsystem/InputSystem/Controls/Processors/CompensateDirectionProcessor.cs") state(2)
+Script is not up to date after domain reload: guid(8806f46699a44c39a6a66c5d07772871) path("Packages/com.unity.inputsystem/InputSystem/Plugins/HID/HID.cs") state(2)
+Script is not up to date after domain reload: guid(ade00164ed474391ba591b362f77149f) path("Packages/com.unity.inputsystem/InputSystem/Devices/Touchscreen.cs") state(2)
+Script is not up to date after domain reload: guid(5c6284fecb53e48ee832bc14c64be6fb) path("Packages/com.unity.inputsystem/InputSystem/Devices/Commands/QueryPairedUserAccountCommand.cs") state(2)
+Script is not up to date after domain reload: guid(bd166cb4f7947a8498e7ad07a9c04294) path("Packages/com.unity.inputsystem/InputSystem/Actions/InputActionRebindingExtensions.cs") state(2)
+Script is not up to date after domain reload: guid(8b5bc678fe5c44624a0f00e148fc2670) path("Packages/com.unity.inputsystem/InputSystem/Devices/ITextInputReceiver.cs") state(2)
+Script is not up to date after domain reload: guid(5a2515c58b39ea24c8154ebc84f7c157) path("Packages/com.unity.inputsystem/InputSystem/Controls/InputControlLayout.cs") state(2)
+Script is not up to date after domain reload: guid(3f04ed13d477436fa6a48ff5d0d46d8c) path("Packages/com.unity.inputsystem/InputSystem/Utilities/Substring.cs") state(2)
+Script is not up to date after domain reload: guid(df88ce51eaa14f2f8975023f7f45d2d9) path("Packages/com.unity.inputsystem/InputSystem/Plugins/DualShock/DualShockGamepad.cs") state(2)
+Script is not up to date after domain reload: guid(ab2c7c4773181604f9b207518e96ca1b) path("Packages/com.unity.inputsystem/InputSystem/State/IInputStateChangeMonitor.cs") state(2)
+Script is not up to date after domain reload: guid(96d7b220d8769944f9aca48b3218daaa) path("Packages/com.unity.inputsystem/Tests/IntegrationTests/IntegrationTests.cs") state(2)
+Script is not up to date after domain reload: guid(6ef7b744d03d44f2a82c38ac2f25b21f) path("Packages/com.unity.inputsystem/InputSystem/Controls/Processors/CompensateRotationProcessor.cs") state(2)
+Script is not up to date after domain reload: guid(e78bab4d8055a47fd933966a032e34ef) path("Packages/com.unity.inputsystem/InputSystem/Plugins/WebGL/WebGLGamepad.cs") state(2)
+Script is not up to date after domain reload: guid(ce150b9c1acd40e0a087ca3f3257831d) path("Packages/com.unity.inputsystem/InputSystem/Controls/InputControlPath.cs") state(2)
+Script is not up to date after domain reload: guid(3da49be2d645b418c8ee308bb1a011c7) path("Packages/com.unity.inputsystem/InputSystem/Plugins/Linux/LinuxSupport.cs") state(2)
+Script is not up to date after domain reload: guid(3cf42e49077e442fd8b9dc29c328d345) path("Packages/com.unity.inputsystem/InputSystem/Plugins/EnhancedTouch/EnhancedTouchSupport.cs") state(2)
+Script is not up to date after domain reload: guid(7938861606c2845d19cf2e8a683ddba3) path("Packages/com.unity.inputsystem/InputSystem/Controls/Processors/InvertVector3Processor.cs") state(2)
+Script is not up to date after domain reload: guid(9e0ea5a9f932f6541962b1bf7934f7c3) path("Packages/com.unity.inputsystem/InputSystem/Devices/Commands/EnableIMECompositionCommand.cs") state(2)
+Script is not up to date after domain reload: guid(af015677ecab4644b2382c6b37c2d95c) path("Packages/com.unity.inputsystem/InputSystem/Devices/InputDeviceChange.cs") state(2)
+Script is not up to date after domain reload: guid(c79fd316c31a2402692c908865404608) path("Packages/com.unity.inputsystem/InputSystem/Controls/InputProcessor.cs") state(2)
+Script is not up to date after domain reload: guid(550c4f473d16e49cf9f2e5c45be4490d) path("Packages/com.unity.inputsystem/InputSystem/Editor/PropertyDrawers/InputActionPropertyDrawer.cs") state(2)
+Script is not up to date after domain reload: guid(ff1bc3762d8741ff8f40d54da690efb1) path("Packages/com.unity.inputsystem/InputSystem/Utilities/FourCC.cs") state(2)
+Script is not up to date after domain reload: guid(98406e6253bf4ccba72ff32ee85f5efa) path("Packages/com.unity.inputsystem/InputSystem/Devices/InputDeviceDescription.cs") state(2)
+Script is not up to date after domain reload: guid(a85130d4e1e5b49878f8f51b2d4e0ded) path("Packages/com.unity.inputsystem/InputSystem/Editor/AssetImporter/InputActionCodeGenerator.cs") state(2)
+Script is not up to date after domain reload: guid(caa587f0fb5099040bf6193f93daec5d) path("Packages/com.unity.inputsystem/InputSystem/Actions/Interactions/TapInteraction.cs") state(2)
+Script is not up to date after domain reload: guid(2c5f144140b7e48d48eb67d2decae17b) path("Packages/com.unity.inputsystem/InputSystem/InputExtensions.cs") state(2)
+Script is not up to date after domain reload: guid(a8d605b1e92964b5b94668b1511799ed) path("Packages/com.unity.inputsystem/InputSystem/State/InputState.cs") state(2)
+Script is not up to date after domain reload: guid(6d54531977ecb194c95e2d3aa7a5d72a) path("Packages/com.unity.inputsystem/InputSystem/Plugins/OnScreen/OnScreenButton.cs") state(2)
+Script is not up to date after domain reload: guid(6bd8ebd167bb9d34cabf0b443f2d1aaa) path("Packages/com.unity.inputsystem/InputSystem/Actions/Interactions/HoldInteraction.cs") state(2)
+Script is not up to date after domain reload: guid(6bb362cb9a8353d44997049a67efe591) path("Packages/com.unity.inputsystem/InputSystem/Devices/InputDeviceMatcher.cs") state(2)
+Script is not up to date after domain reload: guid(c5b4f9c3390c14106a5006fd5d3d3cbe) path("Packages/com.unity.inputsystem/InputSystem/Editor/AssetEditor/InputActionAssetManager.cs") state(2)
+Script is not up to date after domain reload: guid(e5a64639c3eeaf5429cee8a5cb3c38d2) path("Packages/com.unity.inputsystem/InputSystem/Editor/InputDiagnostics.cs") state(2)
+Script is not up to date after domain reload: guid(bdf4b325f88d407f9013b427a6b33c58) path("Packages/com.unity.inputsystem/InputSystem/State/IInputStateTypeInfo.cs") state(2)
+Script is not up to date after domain reload: guid(98590516d066443e58df0deff4a95b21) path("Packages/com.unity.inputsystem/InputSystem/Controls/Processors/ScaleProcessor.cs") state(2)
+Script is not up to date after domain reload: guid(ccdc5c2ae66744782ab7e326c053ad0a) path("Packages/com.unity.inputsystem/InputSystem/State/InputStateHistory.cs") state(2)
+Script is not up to date after domain reload: guid(4ff1587ed21f442578f1ad36c4779a95) path("Packages/com.unity.inputsystem/InputSystem/Actions/InputActionTrace.cs") state(2)
+Script is not up to date after domain reload: guid(0e235e01f7e6408f87e899ac373c85d1) path("Packages/com.unity.inputsystem/InputSystem/Plugins/DualShock/IDualShockHaptics.cs") state(2)
+Script is not up to date after domain reload: guid(da649da79e1b9455791f5ddd31355edc) path("Packages/com.unity.inputsystem/InputSystem/Editor/AssetEditor/NameAndParameterListView.cs") state(2)
+Script is not up to date after domain reload: guid(ee46ea662a1d4d2397d0b3a45baf67ef) path("Packages/com.unity.inputsystem/InputSystem/Devices/Haptics/DualMotorRumbleCommand.cs") state(2)
+Script is not up to date after domain reload: guid(fb0e54f1ead384cd191254077544faf0) path("Packages/com.unity.inputsystem/InputSystem/Editor/AssetEditor/ParameterListView.cs") state(2)
+Script is not up to date after domain reload: guid(6e444fe6609243258e0a7746c163373a) path("Packages/com.unity.inputsystem/InputSystem/Controls/AnyKeyControl.cs") state(2)
+Script is not up to date after domain reload: guid(d618f7e3781548c28836f39ae65d95e1) path("Packages/com.unity.inputsystem/InputSystem/Controls/ButtonControl.cs") state(2)
+Script is not up to date after domain reload: guid(6e687839a3c5f7a4ea700f2967051b3d) path("Packages/com.unity.inputsystem/InputSystem/Utilities/Comparers.cs") state(2)
+Script is not up to date after domain reload: guid(179e4e4b8003406d97463b101f15eb8b) path("Packages/com.unity.inputsystem/InputSystem/Devices/Haptics/IHaptics.cs") state(2)
+Script is not up to date after domain reload: guid(595b51cc3a67d49dd9168092dc0f6eec) path("Packages/com.unity.inputsystem/InputSystem/NativeInputRuntime.cs") state(2)
+Script is not up to date after domain reload: guid(87354c477cc09c441b957b3aae10d813) path("Packages/com.unity.inputsystem/InputSystem/Actions/InputActionMap.cs") state(2)
+Script is not up to date after domain reload: guid(39fa3d8997a24136984ca6e2c99902bc) path("Packages/com.unity.inputsystem/InputSystem/Actions/InputActionAsset.cs") state(2)
+Script is not up to date after domain reload: guid(07003ea62d4443a09691237b23f17ac6) path("Packages/com.unity.inputsystem/InputSystem/Utilities/ReadOnlyArray.cs") state(2)
+Script is not up to date after domain reload: guid(bd2cb6115f94b4c129408ea68717f9c3) path("Packages/com.unity.inputsystem/InputSystem/Plugins/UI/StandaloneInputModuleEditor.cs") state(2)
+Script is not up to date after domain reload: guid(8d659406a304446c599b9ec454663c46) path("Packages/com.unity.inputsystem/InputSystem/Editor/Debugger/InputActionDebuggerWindow.cs") state(2)
+Script is not up to date after domain reload: guid(06c77ad4af684d2eab4294e0d51afccd) path("Packages/com.unity.inputsystem/InputSystem/Controls/Vector2Control.cs") state(2)
+Script is not up to date after domain reload: guid(674b72d5417404b9eac446749e3e2d5e) path("Packages/com.unity.inputsystem/Tests/TestFixture/AssemblyInfo.cs") state(2)
+Script is not up to date after domain reload: guid(4f0b0cfb7c484e43823c1a038c97a5f3) path("Packages/com.unity.inputsystem/InputSystem/Plugins/HID/HIDSupport.cs") state(2)
+Script is not up to date after domain reload: guid(cfe12f5319f74d9e8b0875e965ac280b) path("Packages/com.unity.inputsystem/InputSystem/Actions/InputAction.cs") state(2)
+Script is not up to date after domain reload: guid(7ffe30fd9a2d64031a59c21418fb2067) path("Packages/com.unity.inputsystem/InputSystem/Plugins/Steam/SteamControllerType.cs") state(2)
+Script is not up to date after domain reload: guid(f720cfe5a69dc41b28e4c0a6ac2054c5) path("Packages/com.unity.inputsystem/InputSystem/Plugins/Users/InputUserSettings.cs") state(2)
+Script is not up to date after domain reload: guid(a99745fe0133ddf4b9a4d6c58af7795a) path("Packages/com.unity.inputsystem/InputSystem/Plugins/Switch/SwitchSupportHID.cs") state(2)
+Script is not up to date after domain reload: guid(bd4bfc3c0efb44494be7101204897b7e) path("Packages/com.unity.inputsystem/InputSystem/Plugins/WebGL/WebGLSupport.cs") state(2)
+Script is not up to date after domain reload: guid(afe3cda3e244f60419474164d6ba3b0b) path("Packages/com.unity.inputsystem/InputSystem/Plugins/UI/TrackedDeviceRaycaster.cs") state(2)
+Script is not up to date after domain reload: guid(15fa4fb6e47739e43b36a70fce024b6f) path("Packages/com.unity.inputsystem/InputSystem/Plugins/Android/AndroidAxis.cs") state(2)
+Script is not up to date after domain reload: guid(ef4e8c908ae24e438f4baea55d866f5e) path("Packages/com.unity.inputsystem/InputSystem/State/InputStateBlock.cs") state(2)
+Script is not up to date after domain reload: guid(fa7997ba71d7b476799fab3d063b7e6c) path("Packages/com.unity.inputsystem/InputSystem/Events/InputEventBuffer.cs") state(2)
+Script is not up to date after domain reload: guid(bb39cf984021140a3adc2419327534a7) path("Packages/com.unity.inputsystem/InputSystem/Events/IMECompositionEvent.cs") state(2)
+Script is not up to date after domain reload: guid(e9d677f1681015749b15c436eec6d880) path("Packages/com.unity.inputsystem/InputSystem/Plugins/OnScreen/OnScreenStick.cs") state(2)
+Script is not up to date after domain reload: guid(e553fed0b97be3349aff36916eb6fefc) path("Packages/com.unity.inputsystem/InputSystem/Plugins/XR/Haptics/SendBufferedHapticsCommand.cs") state(2)
+Script is not up to date after domain reload: guid(9e37175fb5b321444aa88a861f93360a) path("Packages/com.unity.inputsystem/InputSystem/Actions/IInputInteraction.cs") state(2)
+Script is not up to date after domain reload: guid(fbe76c3f0e980e6468b895ac1133c20d) path("Packages/com.unity.inputsystem/InputSystem/Actions/InputBindingCompositeContext.cs") state(2)
+Script is not up to date after domain reload: guid(ae31a855334ecf64f848ae8e0b4e5a24) path("Packages/com.unity.inputsystem/InputSystem/Actions/InputActionSetupExtensions.cs") state(2)
+Script is not up to date after domain reload: guid(87ce818774f4c544882b249f32619300) path("Packages/com.unity.inputsystem/InputSystem/Controls/Processors/EditorWindowSpaceProcessor.cs") state(2)
+Script is not up to date after domain reload: guid(793d3fce58f547d688fdc78bee75cd30) path("Packages/com.unity.inputsystem/InputSystem/Controls/TouchControl.cs") state(2)
+Script is not up to date after domain reload: guid(150936adb4fc13049a1001992b86c43e) path("Packages/com.unity.inputsystem/InputSystem/Plugins/XR/Devices/Oculus.cs") state(2)
+Script is not up to date after domain reload: guid(ea7d19a9cdd73486689f292cc9d38018) path("Packages/com.unity.inputsystem/InputSystem/Editor/Debugger/InputDeviceDebuggerWindow.cs") state(2)
+Script is not up to date after domain reload: guid(455d9bc907fb62d44a2195e53ff7c0b7) path("Packages/com.unity.inputsystem/InputSystem/Utilities/PrimitiveValue.cs") state(2)
+Script is not up to date after domain reload: guid(5cdce2bffd1e49bda08b3db54a031207) path("Packages/com.unity.inputsystem/InputSystem/InputSystemObject.cs") state(2)
+Script is not up to date after domain reload: guid(ca5a63bf867c240879f2eb2179771ffb) path("Packages/com.unity.inputsystem/InputSystem/Actions/InputActionState.cs") state(2)
+Script is not up to date after domain reload: guid(d59a0dc8508f4cf1819f6ba99250cd8e) path("Packages/com.unity.inputsystem/InputSystem/Controls/InputControl.cs") state(2)
+Script is not up to date after domain reload: guid(78260363757e4b02b9c6cc9949b4091a) path("Packages/com.unity.inputsystem/InputSystem/Events/InputEvent.cs") state(2)
+Script is not up to date after domain reload: guid(153c0ac2dec541bc824175008b97615d) path("Packages/com.unity.inputsystem/InputSystem/Devices/Remote/RemoteInputPlayerConnection.cs") state(2)
+Script is not up to date after domain reload: guid(d8afcd24f0b647f4f9f8c539d613ee6d) path("Packages/com.unity.inputsystem/InputSystem/Editor/AssetEditor/InputBindingPropertiesView.cs") state(2)
+Script is not up to date after domain reload: guid(4e49477f346c4f3a8c9e5fcdcde317ed) path("Packages/com.unity.inputsystem/InputSystem/Devices/Commands/QueryKeyNameCommand.cs") state(2)
+Script is not up to date after domain reload: guid(060ae4265f580481f9bc2f2e7ab367ef) path("Packages/com.unity.inputsystem/InputSystem/Editor/AssetEditor/PropertiesViewBase.cs") state(2)
+Script is not up to date after domain reload: guid(47e42d28cda46b34cb7f8804e6db4c25) path("Packages/com.unity.inputsystem/InputSystem/Plugins/UI/BaseInputOverride.cs") state(2)
+Script is not up to date after domain reload: guid(864a08de8a08473ebf82029d80696449) path("Packages/com.unity.inputsystem/InputSystem/Devices/Keyboard.cs") state(2)
+Script is not up to date after domain reload: guid(f5899dcacd4e3004eaa9107c97e75e09) path("Packages/com.unity.inputsystem/InputSystem/Controls/InputControlLayoutChange.cs") state(2)
+Script is not up to date after domain reload: guid(6f91aa063fcc645ea8061ce0ae4f6f2b) path("Packages/com.unity.inputsystem/InputSystem/Plugins/WebGL/WebGLJoystick.cs") state(2)
+Script is not up to date after domain reload: guid(6e6d0cbdd012f434392878fdc293f974) path("Packages/com.unity.inputsystem/InputSystem/Devices/Commands/QueryEnabledStateCommand.cs") state(2)
+Script is not up to date after domain reload: guid(9e082355c53c54d19a09c1d4f7629360) path("Packages/com.unity.inputsystem/InputSystem/Utilities/JsonParser.cs") state(2)
+Script is not up to date after domain reload: guid(aa489f950f62d2948a1d96092e5a708a) path("Packages/com.unity.inputsystem/InputSystem/Plugins/UI/UISupport.cs") state(2)
+Script is not up to date after domain reload: guid(86b230bdbb8ce487882861a17e6d2bde) path("Packages/com.unity.inputsystem/InputSystem/Plugins/PlayerInput/PlayerJoinBehavior.cs") state(2)
+Script is not up to date after domain reload: guid(ba025c1c816ba7c42a1d28f1cefb9c66) path("Packages/com.unity.inputsystem/InputSystem/IInputDiagnostics.cs") state(2)
+Script is not up to date after domain reload: guid(b5256e0d1ebecc84d98a4001ab63d5b8) path("Packages/com.unity.inputsystem/InputSystem/Controls/InputControlLayoutAttribute.cs") state(2)
+Script is not up to date after domain reload: guid(bb7aebed4ffd404da3399f60b272c7ee) path("Packages/com.unity.inputsystem/InputSystem/Devices/IInputUpdateCallbackReceiver.cs") state(2)
+Script is not up to date after domain reload: guid(caf772fd9b5b4840b7b0014d0616290d) path("Packages/com.unity.inputsystem/InputSystem/Events/InputEventPtr.cs") state(2)
+Script is not up to date after domain reload: guid(0c8442e8094ce974598eacc0302ddabb) path("Packages/com.unity.inputsystem/InputSystem/Plugins/Android/AndroidSupport.cs") state(2)
+Script is not up to date after domain reload: guid(decf522e52f74f9e80b4dc87986cca70) path("Packages/com.unity.inputsystem/InputSystem/InputUpdateType.cs") state(2)
+Script is not up to date after domain reload: guid(d806525c0444400588f5a7800297b7b5) path("Packages/com.unity.inputsystem/InputSystem/Devices/Pointer.cs") state(2)
+Script is not up to date after domain reload: guid(eb55afc2c109f42f2af37941a8c9300e) path("Packages/com.unity.inputsystem/InputSystem/Editor/AssetEditor/InputActionEditorWindow.cs") state(2)
+Script is not up to date after domain reload: guid(7eca76cf669745feb0c71655dbad352f) path("Packages/com.unity.inputsystem/InputSystem/Utilities/TypeHelpers.cs") state(2)
+Script is not up to date after domain reload: guid(49207568c569440f97a5bfe8b4144a16) path("Packages/com.unity.inputsystem/InputSystem/Actions/InputBinding.cs") state(2)
+Script is not up to date after domain reload: guid(c632b886b4d04e6b856720556b399ffe) path("Packages/com.unity.inputsystem/InputSystem/Events/DeltaStateEvent.cs") state(2)
+Script is not up to date after domain reload: guid(4e9c0b68df9234a0bad68ad7e0391330) path("Packages/com.unity.inputsystem/InputSystem/Actions/Composites/Vector2Composite.cs") state(2)
+Script is not up to date after domain reload: guid(6873ac51fc9d6dc4dbb6d9dc77a5eb49) path("Packages/com.unity.inputsystem/InputSystem/Devices/Commands/SetIMECursorPositionCommand.cs") state(2)
+Script is not up to date after domain reload: guid(8a2cdc9fdde66bb49afa0763a7557ff9) path("Packages/com.unity.inputsystem/InputSystem/Plugins/XR/Devices/OpenVR.cs") state(2)
+Script is not up to date after domain reload: guid(0c43a6876f1eb4fdf8b9dc2fee926776) path("Packages/com.unity.inputsystem/InputSystem/Actions/InputActionProperty.cs") state(2)
+Script is not up to date after domain reload: guid(7bef150b341c4d0dbab3db81ccf2ea81) path("Packages/com.unity.inputsystem/InputSystem/Plugins/Steam/SteamSupport.cs") state(2)
+Script is not up to date after domain reload: guid(8d76c8b08c287594c9bf5d6c70fb8699) path("Packages/com.unity.inputsystem/InputSystem/Devices/Commands/EnableDeviceCommand.cs") state(2)
+Script is not up to date after domain reload: guid(46f02abeca624ce68874afdbb77c9be0) path("Packages/com.unity.inputsystem/InputSystem/InputManager.cs") state(2)
+Script is not up to date after domain reload: guid(2539bd7bca18c47e5a76ad1471ed6829) path("Packages/com.unity.inputsystem/InputSystem/Editor/PropertyDrawers/InputActionDrawer.cs") state(2)
+Script is not up to date after domain reload: guid(3afbef7bebf197d43b2352b971a4e15f) path("Packages/com.unity.inputsystem/InputSystem/Actions/Interactions/SlowTapInteraction.cs") state(2)
+Script is not up to date after domain reload: guid(073f4378d59364199ae19d0486842726) path("Packages/com.unity.inputsystem/Tests/TestFixture/InputTestRuntime.cs") state(2)
+Script is not up to date after domain reload: guid(681942113a3d6460a90af134a86edb78) path("Packages/com.unity.inputsystem/InputSystem/Controls/Processors/ScaleVector3Processor.cs") state(2)
+Script is not up to date after domain reload: guid(68e8070c85d3c4544a527f58641b95c0) path("Packages/com.unity.inputsystem/InputSystem/AssemblyInfo.cs") state(2)
+Script is not up to date after domain reload: guid(0dd5cd31dc0a44e8979c69bd6ef78686) path("Packages/com.unity.inputsystem/InputSystem/Plugins/XInput/XInputSupport.cs") state(2)
+Script is not up to date after domain reload: guid(a9be5e04bc92741ccbe2c262bfaa517f) path("Packages/com.unity.inputsystem/InputSystem/Plugins/XR/XRSupport.cs") state(2)
+Script is not up to date after domain reload: guid(9e1e1ebbe5ff04f03bf06ab5398454cf) path("Packages/com.unity.inputsystem/InputSystem/Editor/AssetEditor/InputActionEditorToolbar.cs") state(2)
+Script is not up to date after domain reload: guid(a625f902f77154d94aa57ae7872317ac) path("Packages/com.unity.inputsystem/InputSystem/IInputRuntime.cs") state(2)
+Script is not up to date after domain reload: guid(6887ac562f464a329bc468158dbbf18f) path("Packages/com.unity.inputsystem/InputSystem/Controls/Processors/ClampProcessor.cs") state(2)
+Script is not up to date after domain reload: guid(e8df62e96c8524c2a89b7af40ee100e9) path("Packages/com.unity.inputsystem/InputSystem/Editor/Settings/InputSettingsProvider.cs") state(2)
+Script is not up to date after domain reload: guid(aad56faafe6d9d3458c93a9e43759461) path("Packages/com.unity.inputsystem/InputSystem/Devices/Commands/DisableDeviceCommand.cs") state(2)
+Script is not up to date after domain reload: guid(aa58e874cb4143ad884b8da2bb3f0d7a) path("Packages/com.unity.inputsystem/InputSystem/Editor/Internal/InputControlTreeView.cs") state(2)
+Script is not up to date after domain reload: guid(d717b0e790ee146dd93d1be641984b6a) path("Packages/com.unity.inputsystem/InputSystem/Utilities/ExceptionHelpers.cs") state(2)
+Script is not up to date after domain reload: guid(2ab54adba6d259742a9022c514b04149) path("Packages/com.unity.inputsystem/InputSystem/Plugins/Linux/SDLDeviceBuilder.cs") state(2)
+Script is not up to date after domain reload: guid(a8cfbe75f80984c1d9700ef41f6e2aeb) path("Packages/com.unity.inputsystem/InputSystem/Controls/InputControlExtensions.cs") state(2)
+Script is not up to date after domain reload: guid(0ffbcc8a975d04f12967a085a10aeb7b) path("Packages/com.unity.inputsystem/InputSystem/Utilities/NameAndParameters.cs") state(2)
+Script is not up to date after domain reload: guid(15164829aab964eedaee6bac785c2c05) path("Packages/com.unity.inputsystem/InputSystem/Actions/Composites/ButtonWithOneModifier.cs") state(2)
+Script is not up to date after domain reload: guid(78dcfd26eada049b0840e276bd029712) path("Packages/com.unity.inputsystem/InputSystem/Plugins/PlayerInput/PlayerInputEditor.cs") state(2)
+Script is not up to date after domain reload: guid(854faad156b245d4b50a15e233e9ad55) path("Packages/com.unity.inputsystem/InputSystem/Controls/StickControl.cs") state(2)
+Script is not up to date after domain reload: guid(3e9857b4032c493aa79e61db86f9e09b) path("Packages/com.unity.inputsystem/InputSystem/Controls/QuaternionControl.cs") state(2)
+Script is not up to date after domain reload: guid(57f4c22a7e71744499d25ed776ef6cf2) path("Packages/com.unity.inputsystem/InputSystem/Editor/AssetImporter/InputActionAssetEditor.cs") state(2)
+Script is not up to date after domain reload: guid(9858d4c8055fd45539a2e86388f7c5ba) path("Packages/com.unity.inputsystem/InputSystem/Editor/DownloadableSample.cs") state(2)
+Script is not up to date after domain reload: guid(c77cd15ef9ca14d3e928d192049c276d) path("Packages/com.unity.inputsystem/InputSystem/Actions/InputActionChange.cs") state(2)
+Script is not up to date after domain reload: guid(c7225419e3d446c5982afd5ba9cce319) path("Packages/com.unity.inputsystem/InputSystem/Plugins/DualShock/DualShockGamepadHID.cs") state(2)
+Script is not up to date after domain reload: guid(a653ebc2c02d545f581079cf4bbb0cd9) path("Packages/com.unity.inputsystem/InputSystem/InputAnalytics.cs") state(2)
+Script is not up to date after domain reload: guid(4b0617d4946754ab980342582b1f560c) path("Packages/com.unity.inputsystem/InputSystem/Editor/Internal/AdvancedDropdown/AdvancedDropdown.cs") state(2)
+Script is not up to date after domain reload: guid(fc1515ab76e54f068e2f2207940fab32) path("Packages/com.unity.inputsystem/InputSystem/Actions/InputActionReference.cs") state(2)
+Script is not up to date after domain reload: guid(cf624ae4ff5e44cebdcba54ae1ff380a) path("Packages/com.unity.inputsystem/InputSystem/Controls/CommonUsages.cs") state(2)
+Script is not up to date after domain reload: guid(dda83392ceab4fddbb9f3c7dd5edde62) path("Packages/com.unity.inputsystem/InputSystem/Events/TextEvent.cs") state(2)
+Script is not up to date after domain reload: guid(3894aabfd6ab70245859fa873e1a6552) path("Packages/com.unity.inputsystem/InputSystem/Devices/Commands/SetSamplingFrequencyCommand.cs") state(2)
+Script is not up to date after domain reload: guid(4ab0ce1980d384014be67a2d135ed92c) path("Packages/com.unity.inputsystem/InputSystem/Controls/Processors/InvertVector2Processor.cs") state(2)
+Script is not up to date after domain reload: guid(250f0b2038f8466aaa09814a4b1c5f46) path("Packages/com.unity.inputsystem/InputSystem/Devices/InputDevice.cs") state(2)
+Script is not up to date after domain reload: guid(7d7a42e3bb8b4c0f877cbe19718a4103) path("Packages/com.unity.inputsystem/InputSystem/Controls/KeyControl.cs") state(2)
+Script is not up to date after domain reload: guid(fa26399d579948dd90c6ff298cdb0570) path("Packages/com.unity.inputsystem/InputSystem/Plugins/DualShock/DualShockSupport.cs") state(2)
+Script is not up to date after domain reload: guid(bb83bbf668a324899963d1ea424c5ad0) path("Packages/com.unity.inputsystem/InputSystem/Utilities/DelegateHelpers.cs") state(2)
+Script is not up to date after domain reload: guid(1ab470181bfe4ba891e0d1584730fc4c) path("Packages/com.unity.inputsystem/InputSystem/Controls/DiscreteButtonControl.cs") state(2)
+Script is not up to date after domain reload: guid(ab9baa68d9998419ba6b1bd76b11b630) path("Packages/com.unity.inputsystem/InputSystem/Plugins/Steam/SteamController.cs") state(2)
+Script is not up to date after domain reload: guid(6d671947d51444fb9b8a4bf96c16bfed) path("Packages/com.unity.inputsystem/InputSystem/Editor/Internal/EditorHelpers.cs") state(2)
+Script is not up to date after domain reload: guid(8b78cdd0ba4454fd69b2be04e825d921) path("Packages/com.unity.inputsystem/InputSystem/Controls/Processors/NormalizeVector3Processor.cs") state(2)
+Script is not up to date after domain reload: guid(2e3ecb5c3d351df489bd05ac1d820a6a) path("Packages/com.unity.inputsystem/InputSystem/Controls/TouchPhaseControl.cs") state(2)
+Script is not up to date after domain reload: guid(551b733126e34f71a7294051cf2bfc0b) path("Packages/com.unity.inputsystem/InputSystem/Controls/AxisControl.cs") state(2)
+Script is not up to date after domain reload: guid(3ec5135f9c8612d42a83f87500580afa) path("Packages/com.unity.inputsystem/InputSystem/Utilities/TypeTable.cs") state(2)
+Script is not up to date after domain reload: guid(96bf34fe183cd4ce986db61a6639cd5b) path("Packages/com.unity.inputsystem/InputSystem/Controls/Processors/ScaleVector2Processor.cs") state(2)
+Script is not up to date after domain reload: guid(caeab4c8826564dfda5e44a7e01a8de1) path("Packages/com.unity.inputsystem/InputSystem/Editor/Internal/AdvancedDropdown/MultiLevelDataSource.cs") state(2)
+Script is not up to date after domain reload: guid(35b7608ac9ab8464280c16fa4adc02f1) path("Packages/com.unity.inputsystem/InputSystem/State/IInputStateCallbackReceiver.cs") state(2)
+Script is not up to date after domain reload: guid(3c197002ad4232e46b0c55f74469fa03) path("Packages/com.unity.inputsystem/InputSystem/Plugins/Switch/SwitchProControllerHID.cs") state(2)
+Script is not up to date after domain reload: guid(6c784a1510a154625903484b84c8ddaf) path("Packages/com.unity.inputsystem/InputSystem/Devices/Commands/QueryUserIdCommand.cs") state(2)
+Script is not up to date after domain reload: guid(2f971d46c202b4b7a90865bf5600683f) path("Packages/com.unity.inputsystem/InputSystem/Plugins/Steam/SteamHandle.cs") state(2)
+Script is not up to date after domain reload: guid(2ade21199e79d394ab34f4e6887f1c09) path("Packages/com.unity.inputsystem/InputSystem/Plugins/XR/Haptics/GetHapticCapabilitiesCommand.cs") state(2)
+Script is not up to date after domain reload: guid(888687b767334731951f3f18ffef0b75) path("Packages/com.unity.inputsystem/InputSystem/Utilities/ArrayHelpers.cs") state(2)
+Script is not up to date after domain reload: guid(f61b0e35037644f37b6ac81513577c50) path("Packages/com.unity.inputsystem/InputSystem/Editor/Internal/AdvancedDropdown/AdvancedDropdownState.cs") state(2)
+Script is not up to date after domain reload: guid(6efadb7e1c29b4055adbd232610a4179) path("Packages/com.unity.inputsystem/InputSystem/Actions/InputBindingComposite.cs") state(2)
+Script is not up to date after domain reload: guid(0e297b4219a224ba5bcb4f9293e26ea9) path("Packages/com.unity.inputsystem/InputSystem/Actions/IInputActionCollection.cs") state(2)
+Script is not up to date after domain reload: guid(0e0c005ff24ec4cfb951eefa16239b9b) path("Packages/com.unity.inputsystem/InputSystem/Utilities/NamedValue.cs") state(2)
+Script is not up to date after domain reload: guid(9af5cfc54cf34eb1ac27c9c90a9a7440) path("Packages/com.unity.inputsystem/InputSystem/Events/DeviceRemoveEvent.cs") state(2)
+Script is not up to date after domain reload: guid(3d2dbd5e535742a18f979fdaa69e3627) path("Packages/com.unity.inputsystem/InputSystem/Plugins/XInput/IXboxOneRumble.cs") state(2)
+Script is not up to date after domain reload: guid(ef73fbf6f536c4184845d789870911a3) path("Packages/com.unity.inputsystem/InputSystem/Plugins/XInput/XboxGamepadMacOS.cs") state(2)
+Script is not up to date after domain reload: guid(db7a158b580fb4518ae82aa029a54892) path("Packages/com.unity.inputsystem/InputSystem/Editor/ControlPicker/InputControlPickerDropdown.cs") state(2)
+Script is not up to date after domain reload: guid(ce1664b057efc40759e0da41d54e3e4e) path("Packages/com.unity.inputsystem/InputSystem/Plugins/Users/InputUserChange.cs") state(2)
+Script is not up to date after domain reload: guid(bca227b3a59246a197db2ff52b862072) path("Packages/com.unity.inputsystem/InputSystem/Plugins/UI/ExtendedPointerEventData.cs") state(2)
+Script is not up to date after domain reload: guid(ede17f8b7e9dfcf42b560545a8102eeb) path("Packages/com.unity.inputsystem/InputSystem/Plugins/Android/AndroidKeyCode.cs") state(2)
+Script is not up to date after domain reload: guid(4eac2aa5bc9a4fc1b87308eec2acf8b1) path("Packages/com.unity.inputsystem/InputSystem/Devices/Pen.cs") state(2)
+Script is not up to date after domain reload: guid(dfa8add0e3ed349708aeadc8b8c1ad0f) path("Packages/com.unity.inputsystem/InputSystem/Editor/ControlPicker/InputControlPickerState.cs") state(2)
+Script is not up to date after domain reload: guid(5b23e3210ca74ea9ae4fe882b9bce278) path("Packages/com.unity.inputsystem/InputSystem/Events/InputEventTrace.cs") state(2)
+Script is not up to date after domain reload: guid(d8ce1fd8f845226439f6b4ee991c9f78) path("Packages/com.unity.inputsystem/InputSystem/Devices/Commands/QueryDimensionsCommand.cs") state(2)
+Script is not up to date after domain reload: guid(3c764fcc1188a6e489f8c305ff4077a6) path("Packages/com.unity.inputsystem/InputSystem/Devices/Commands/QueryEditorWindowCoordinatesCommand.cs") state(2)
+Script is not up to date after domain reload: guid(7c93968c9be74a1fa43a3dad5eed4cbd) path("Packages/com.unity.inputsystem/InputSystem/Editor/Internal/InputActionSerializationHelpers.cs") state(2)
+Script is not up to date after domain reload: guid(a7c6472eb810ba445be34c69325e4fea) path("Packages/com.unity.inputsystem/InputSystem/Plugins/Android/AndroidGameController.cs") state(2)
+Script is not up to date after domain reload: guid(ba2c9cc57fa154716b6f077bf9c1c193) path("Packages/com.unity.inputsystem/InputSystem/Editor/PropertyDrawers/InputActionDrawerBase.cs") state(2)
+Script is not up to date after domain reload: guid(4f7d29e15c49c49499875a6a2378f2a4) path("Packages/com.unity.inputsystem/InputSystem/Editor/InputParameterEditor.cs") state(2)
+Script is not up to date after domain reload: guid(a736049645e8c4781aedf679c2ee6be6) path("Packages/com.unity.inputsystem/InputSystem/Plugins/HID/HIDParser.cs") state(2)
+Script is not up to date after domain reload: guid(5f84d6a1bd34ea6428fa1db0e9f459cb) path("Packages/com.unity.inputsystem/InputSystem/Plugins/XR/Haptics/SendHapticImpulseCommand.cs") state(2)
+Script is not up to date after domain reload: guid(f617c1bc34684f738c0d2cb4d0650f35) path("Packages/com.unity.inputsystem/InputSystem/Devices/Remote/InputRemoting.cs") state(2)
+Script is not up to date after domain reload: guid(4cc0c6a7fa1c14a518fec64497f4937f) path("Packages/com.unity.inputsystem/InputSystem/Plugins/EnhancedTouch/TouchHistory.cs") state(2)
+========================================================================
+Worker process is ready to serve import requests
+Script is not up to date after domain reload: guid(8f99eea29fb7e4f7a9c7aad1730f329a) path("Packages/com.unity.inputsystem/InputSystem/Utilities/OneOrMore.cs") state(2)
+Script is not up to date after domain reload: guid(6982a6ffcdbf47a6aa68fd4418622395) path("Packages/com.unity.inputsystem/InputSystem/Devices/Haptics/IDualMotorRumble.cs") state(2)
+Script is not up to date after domain reload: guid(bb4d45fbf0aa84484b251242fdb21800) path("Packages/com.unity.inputsystem/InputSystem/Plugins/Steam/SteamIGAConverter.cs") state(2)
+Script is not up to date after domain reload: guid(0a3e3635b85e2124b9b3147aef1cdc32) path("Packages/com.unity.inputsystem/InputSystem/Plugins/XInput/XInputControllerWindows.cs") state(2)
+Script is not up to date after domain reload: guid(76d591911f4ae4f62953b13f6ff50429) path("Packages/com.unity.inputsystem/InputSystem/Editor/AssetEditor/InputActionTreeViewItems.cs") state(2)
+Script is not up to date after domain reload: guid(6633b33d60f14b81927d89a4b06c8a1f) path("Packages/com.unity.inputsystem/InputSystem/State/InputStateBuffers.cs") state(2)
+Script is not up to date after domain reload: guid(7c6a2891083312645a7be416176261c1) path("Packages/com.unity.inputsystem/InputSystem/Utilities/CSharpCodeHelpers.cs") state(2)
+Script is not up to date after domain reload: guid(760fac1b814a4d99a4fc534934e4dc99) path("Packages/com.unity.inputsystem/InputSystem/Utilities/MemoryHelpers.cs") state(2)
+Script is not up to date after domain reload: guid(ae42a3986cf84fe2aa1df4aa984dd806) path("Packages/com.unity.inputsystem/InputSystem/Plugins/HID/HIDDescriptorWindow.cs") state(2)
+Script is not up to date after domain reload: guid(98a0df93c82e4369b500b62affa160db) path("Packages/com.unity.inputsystem/InputSystem/Utilities/InlinedArray.cs") state(2)
+Script is not up to date after domain reload: guid(6ae082cf4f6634e9d8cdd8526dd816a3) path("Packages/com.unity.inputsystem/InputSystem/Controls/Processors/NormalizeVector2Processor.cs") state(2)
+Script is not up to date after domain reload: guid(d9ce7842660d4bf89a86f378ecffb8f1) path("Packages/com.unity.inputsystem/InputSystem/Events/StateEvent.cs") state(2)
+Script is not up to date after domain reload: guid(2fe2cf22711ac4db3b094a955603f8bd) path("Packages/com.unity.inputsystem/InputSystem/Editor/Internal/AdvancedDropdown/CallbackDataSource.cs") state(2)
+Script is not up to date after domain reload: guid(7ae2dc3fc1c44ea59667819ea1d2e0c5) path("Packages/com.unity.inputsystem/InputSystem/Plugins/XInput/XInputController.cs") state(2)
+Script is not up to date after domain reload: guid(76765a8c5cba74c0abc5ab4afd8266e2) path("Packages/com.unity.inputsystem/InputSystem/Plugins/Users/InputUserAccountHandle.cs") state(2)
+Script is not up to date after domain reload: guid(1659bf437d849824999b2b9ae9e1518b) path("Packages/com.unity.inputsystem/InputSystem/Devices/Commands/QuerySamplingFrequencyCommand.cs") state(2)
+Script is not up to date after domain reload: guid(0fb454a124e8649bb9326261b1739032) path("Packages/com.unity.inputsystem/InputSystem/Editor/Internal/AdvancedDropdown/AdvancedDropdownDataSource.cs") state(2)
+Script is not up to date after domain reload: guid(dbce6ac3ce95e4e28af8b2212171619a) path("Packages/com.unity.inputsystem/InputSystem/Controls/Processors/CompensateDirectionProcessor.cs") state(2)
+Script is not up to date after domain reload: guid(8806f46699a44c39a6a66c5d07772871) path("Packages/com.unity.inputsystem/InputSystem/Plugins/HID/HID.cs") state(2)
+Script is not up to date after domain reload: guid(ade00164ed474391ba591b362f77149f) path("Packages/com.unity.inputsystem/InputSystem/Devices/Touchscreen.cs") state(2)
+Script is not up to date after domain reload: guid(5c6284fecb53e48ee832bc14c64be6fb) path("Packages/com.unity.inputsystem/InputSystem/Devices/Commands/QueryPairedUserAccountCommand.cs") state(2)
+Script is not up to date after domain reload: guid(bd166cb4f7947a8498e7ad07a9c04294) path("Packages/com.unity.inputsystem/InputSystem/Actions/InputActionRebindingExtensions.cs") state(2)
+Script is not up to date after domain reload: guid(8b5bc678fe5c44624a0f00e148fc2670) path("Packages/com.unity.inputsystem/InputSystem/Devices/ITextInputReceiver.cs") state(2)
+Script is not up to date after domain reload: guid(5a2515c58b39ea24c8154ebc84f7c157) path("Packages/com.unity.inputsystem/InputSystem/Controls/InputControlLayout.cs") state(2)
+Script is not up to date after domain reload: guid(3f04ed13d477436fa6a48ff5d0d46d8c) path("Packages/com.unity.inputsystem/InputSystem/Utilities/Substring.cs") state(2)
+Script is not up to date after domain reload: guid(df88ce51eaa14f2f8975023f7f45d2d9) path("Packages/com.unity.inputsystem/InputSystem/Plugins/DualShock/DualShockGamepad.cs") state(2)
+Script is not up to date after domain reload: guid(ab2c7c4773181604f9b207518e96ca1b) path("Packages/com.unity.inputsystem/InputSystem/State/IInputStateChangeMonitor.cs") state(2)
+Script is not up to date after domain reload: guid(96d7b220d8769944f9aca48b3218daaa) path("Packages/com.unity.inputsystem/Tests/IntegrationTests/IntegrationTests.cs") state(2)
+Script is not up to date after domain reload: guid(6ef7b744d03d44f2a82c38ac2f25b21f) path("Packages/com.unity.inputsystem/InputSystem/Controls/Processors/CompensateRotationProcessor.cs") state(2)
+Script is not up to date after domain reload: guid(e78bab4d8055a47fd933966a032e34ef) path("Packages/com.unity.inputsystem/InputSystem/Plugins/WebGL/WebGLGamepad.cs") state(2)
+Script is not up to date after domain reload: guid(ce150b9c1acd40e0a087ca3f3257831d) path("Packages/com.unity.inputsystem/InputSystem/Controls/InputControlPath.cs") state(2)
+Script is not up to date after domain reload: guid(3da49be2d645b418c8ee308bb1a011c7) path("Packages/com.unity.inputsystem/InputSystem/Plugins/Linux/LinuxSupport.cs") state(2)
+Script is not up to date after domain reload: guid(3cf42e49077e442fd8b9dc29c328d345) path("Packages/com.unity.inputsystem/InputSystem/Plugins/EnhancedTouch/EnhancedTouchSupport.cs") state(2)
+Script is not up to date after domain reload: guid(7938861606c2845d19cf2e8a683ddba3) path("Packages/com.unity.inputsystem/InputSystem/Controls/Processors/InvertVector3Processor.cs") state(2)
+Script is not up to date after domain reload: guid(9e0ea5a9f932f6541962b1bf7934f7c3) path("Packages/com.unity.inputsystem/InputSystem/Devices/Commands/EnableIMECompositionCommand.cs") state(2)
+Script is not up to date after domain reload: guid(af015677ecab4644b2382c6b37c2d95c) path("Packages/com.unity.inputsystem/InputSystem/Devices/InputDeviceChange.cs") state(2)
+Script is not up to date after domain reload: guid(c79fd316c31a2402692c908865404608) path("Packages/com.unity.inputsystem/InputSystem/Controls/InputProcessor.cs") state(2)
+Script is not up to date after domain reload: guid(550c4f473d16e49cf9f2e5c45be4490d) path("Packages/com.unity.inputsystem/InputSystem/Editor/PropertyDrawers/InputActionPropertyDrawer.cs") state(2)
+Script is not up to date after domain reload: guid(ff1bc3762d8741ff8f40d54da690efb1) path("Packages/com.unity.inputsystem/InputSystem/Utilities/FourCC.cs") state(2)
+Script is not up to date after domain reload: guid(98406e6253bf4ccba72ff32ee85f5efa) path("Packages/com.unity.inputsystem/InputSystem/Devices/InputDeviceDescription.cs") state(2)
+Script is not up to date after domain reload: guid(a85130d4e1e5b49878f8f51b2d4e0ded) path("Packages/com.unity.inputsystem/InputSystem/Editor/AssetImporter/InputActionCodeGenerator.cs") state(2)
+Script is not up to date after domain reload: guid(caa587f0fb5099040bf6193f93daec5d) path("Packages/com.unity.inputsystem/InputSystem/Actions/Interactions/TapInteraction.cs") state(2)
+Script is not up to date after domain reload: guid(2c5f144140b7e48d48eb67d2decae17b) path("Packages/com.unity.inputsystem/InputSystem/InputExtensions.cs") state(2)
+Script is not up to date after domain reload: guid(a8d605b1e92964b5b94668b1511799ed) path("Packages/com.unity.inputsystem/InputSystem/State/InputState.cs") state(2)
+Script is not up to date after domain reload: guid(6d54531977ecb194c95e2d3aa7a5d72a) path("Packages/com.unity.inputsystem/InputSystem/Plugins/OnScreen/OnScreenButton.cs") state(2)
+Script is not up to date after domain reload: guid(6bd8ebd167bb9d34cabf0b443f2d1aaa) path("Packages/com.unity.inputsystem/InputSystem/Actions/Interactions/HoldInteraction.cs") state(2)
+Script is not up to date after domain reload: guid(6bb362cb9a8353d44997049a67efe591) path("Packages/com.unity.inputsystem/InputSystem/Devices/InputDeviceMatcher.cs") state(2)
+Script is not up to date after domain reload: guid(c5b4f9c3390c14106a5006fd5d3d3cbe) path("Packages/com.unity.inputsystem/InputSystem/Editor/AssetEditor/InputActionAssetManager.cs") state(2)
+Script is not up to date after domain reload: guid(e5a64639c3eeaf5429cee8a5cb3c38d2) path("Packages/com.unity.inputsystem/InputSystem/Editor/InputDiagnostics.cs") state(2)
+Script is not up to date after domain reload: guid(bdf4b325f88d407f9013b427a6b33c58) path("Packages/com.unity.inputsystem/InputSystem/State/IInputStateTypeInfo.cs") state(2)
+Script is not up to date after domain reload: guid(98590516d066443e58df0deff4a95b21) path("Packages/com.unity.inputsystem/InputSystem/Controls/Processors/ScaleProcessor.cs") state(2)
+Script is not up to date after domain reload: guid(ccdc5c2ae66744782ab7e326c053ad0a) path("Packages/com.unity.inputsystem/InputSystem/State/InputStateHistory.cs") state(2)
+Script is not up to date after domain reload: guid(4ff1587ed21f442578f1ad36c4779a95) path("Packages/com.unity.inputsystem/InputSystem/Actions/InputActionTrace.cs") state(2)
+Script is not up to date after domain reload: guid(0e235e01f7e6408f87e899ac373c85d1) path("Packages/com.unity.inputsystem/InputSystem/Plugins/DualShock/IDualShockHaptics.cs") state(2)
+Script is not up to date after domain reload: guid(da649da79e1b9455791f5ddd31355edc) path("Packages/com.unity.inputsystem/InputSystem/Editor/AssetEditor/NameAndParameterListView.cs") state(2)
+Script is not up to date after domain reload: guid(ee46ea662a1d4d2397d0b3a45baf67ef) path("Packages/com.unity.inputsystem/InputSystem/Devices/Haptics/DualMotorRumbleCommand.cs") state(2)
+Script is not up to date after domain reload: guid(fb0e54f1ead384cd191254077544faf0) path("Packages/com.unity.inputsystem/InputSystem/Editor/AssetEditor/ParameterListView.cs") state(2)
+Script is not up to date after domain reload: guid(6e444fe6609243258e0a7746c163373a) path("Packages/com.unity.inputsystem/InputSystem/Controls/AnyKeyControl.cs") state(2)
+Script is not up to date after domain reload: guid(d618f7e3781548c28836f39ae65d95e1) path("Packages/com.unity.inputsystem/InputSystem/Controls/ButtonControl.cs") state(2)
+Script is not up to date after domain reload: guid(6e687839a3c5f7a4ea700f2967051b3d) path("Packages/com.unity.inputsystem/InputSystem/Utilities/Comparers.cs") state(2)
+Script is not up to date after domain reload: guid(179e4e4b8003406d97463b101f15eb8b) path("Packages/com.unity.inputsystem/InputSystem/Devices/Haptics/IHaptics.cs") state(2)
+Script is not up to date after domain reload: guid(595b51cc3a67d49dd9168092dc0f6eec) path("Packages/com.unity.inputsystem/InputSystem/NativeInputRuntime.cs") state(2)
+Script is not up to date after domain reload: guid(87354c477cc09c441b957b3aae10d813) path("Packages/com.unity.inputsystem/InputSystem/Actions/InputActionMap.cs") state(2)
+Script is not up to date after domain reload: guid(39fa3d8997a24136984ca6e2c99902bc) path("Packages/com.unity.inputsystem/InputSystem/Actions/InputActionAsset.cs") state(2)
+Script is not up to date after domain reload: guid(07003ea62d4443a09691237b23f17ac6) path("Packages/com.unity.inputsystem/InputSystem/Utilities/ReadOnlyArray.cs") state(2)
+Script is not up to date after domain reload: guid(bd2cb6115f94b4c129408ea68717f9c3) path("Packages/com.unity.inputsystem/InputSystem/Plugins/UI/StandaloneInputModuleEditor.cs") state(2)
+Script is not up to date after domain reload: guid(8d659406a304446c599b9ec454663c46) path("Packages/com.unity.inputsystem/InputSystem/Editor/Debugger/InputActionDebuggerWindow.cs") state(2)
+Script is not up to date after domain reload: guid(06c77ad4af684d2eab4294e0d51afccd) path("Packages/com.unity.inputsystem/InputSystem/Controls/Vector2Control.cs") state(2)
+Script is not up to date after domain reload: guid(674b72d5417404b9eac446749e3e2d5e) path("Packages/com.unity.inputsystem/Tests/TestFixture/AssemblyInfo.cs") state(2)
+Script is not up to date after domain reload: guid(4f0b0cfb7c484e43823c1a038c97a5f3) path("Packages/com.unity.inputsystem/InputSystem/Plugins/HID/HIDSupport.cs") state(2)
+Script is not up to date after domain reload: guid(cfe12f5319f74d9e8b0875e965ac280b) path("Packages/com.unity.inputsystem/InputSystem/Actions/InputAction.cs") state(2)
+Script is not up to date after domain reload: guid(7ffe30fd9a2d64031a59c21418fb2067) path("Packages/com.unity.inputsystem/InputSystem/Plugins/Steam/SteamControllerType.cs") state(2)
+Script is not up to date after domain reload: guid(f720cfe5a69dc41b28e4c0a6ac2054c5) path("Packages/com.unity.inputsystem/InputSystem/Plugins/Users/InputUserSettings.cs") state(2)
+Script is not up to date after domain reload: guid(a99745fe0133ddf4b9a4d6c58af7795a) path("Packages/com.unity.inputsystem/InputSystem/Plugins/Switch/SwitchSupportHID.cs") state(2)
+Script is not up to date after domain reload: guid(bd4bfc3c0efb44494be7101204897b7e) path("Packages/com.unity.inputsystem/InputSystem/Plugins/WebGL/WebGLSupport.cs") state(2)
+Script is not up to date after domain reload: guid(afe3cda3e244f60419474164d6ba3b0b) path("Packages/com.unity.inputsystem/InputSystem/Plugins/UI/TrackedDeviceRaycaster.cs") state(2)
+Script is not up to date after domain reload: guid(ef4e8c908ae24e438f4baea55d866f5e) path("Packages/com.unity.inputsystem/InputSystem/State/InputStateBlock.cs") state(2)
+Script is not up to date after domain reload: guid(fa7997ba71d7b476799fab3d063b7e6c) path("Packages/com.unity.inputsystem/InputSystem/Events/InputEventBuffer.cs") state(2)
+Script is not up to date after domain reload: guid(bb39cf984021140a3adc2419327534a7) path("Packages/com.unity.inputsystem/InputSystem/Events/IMECompositionEvent.cs") state(2)
+Script is not up to date after domain reload: guid(e9d677f1681015749b15c436eec6d880) path("Packages/com.unity.inputsystem/InputSystem/Plugins/OnScreen/OnScreenStick.cs") state(2)
+Script is not up to date after domain reload: guid(e553fed0b97be3349aff36916eb6fefc) path("Packages/com.unity.inputsystem/InputSystem/Plugins/XR/Haptics/SendBufferedHapticsCommand.cs") state(2)
+Script is not up to date after domain reload: guid(9e37175fb5b321444aa88a861f93360a) path("Packages/com.unity.inputsystem/InputSystem/Actions/IInputInteraction.cs") state(2)
+Script is not up to date after domain reload: guid(fbe76c3f0e980e6468b895ac1133c20d) path("Packages/com.unity.inputsystem/InputSystem/Actions/InputBindingCompositeContext.cs") state(2)
+Script is not up to date after domain reload: guid(ae31a855334ecf64f848ae8e0b4e5a24) path("Packages/com.unity.inputsystem/InputSystem/Actions/InputActionSetupExtensions.cs") state(2)
+Script is not up to date after domain reload: guid(87ce818774f4c544882b249f32619300) path("Packages/com.unity.inputsystem/InputSystem/Controls/Processors/EditorWindowSpaceProcessor.cs") state(2)
+Script is not up to date after domain reload: guid(793d3fce58f547d688fdc78bee75cd30) path("Packages/com.unity.inputsystem/InputSystem/Controls/TouchControl.cs") state(2)
+Script is not up to date after domain reload: guid(ea7d19a9cdd73486689f292cc9d38018) path("Packages/com.unity.inputsystem/InputSystem/Editor/Debugger/InputDeviceDebuggerWindow.cs") state(2)
+Script is not up to date after domain reload: guid(455d9bc907fb62d44a2195e53ff7c0b7) path("Packages/com.unity.inputsystem/InputSystem/Utilities/PrimitiveValue.cs") state(2)
+Script is not up to date after domain reload: guid(5cdce2bffd1e49bda08b3db54a031207) path("Packages/com.unity.inputsystem/InputSystem/InputSystemObject.cs") state(2)
+Script is not up to date after domain reload: guid(ca5a63bf867c240879f2eb2179771ffb) path("Packages/com.unity.inputsystem/InputSystem/Actions/InputActionState.cs") state(2)
+Script is not up to date after domain reload: guid(d59a0dc8508f4cf1819f6ba99250cd8e) path("Packages/com.unity.inputsystem/InputSystem/Controls/InputControl.cs") state(2)
+Script is not up to date after domain reload: guid(78260363757e4b02b9c6cc9949b4091a) path("Packages/com.unity.inputsystem/InputSystem/Events/InputEvent.cs") state(2)
+Script is not up to date after domain reload: guid(d8afcd24f0b647f4f9f8c539d613ee6d) path("Packages/com.unity.inputsystem/InputSystem/Editor/AssetEditor/InputBindingPropertiesView.cs") state(2)
+Script is not up to date after domain reload: guid(4e49477f346c4f3a8c9e5fcdcde317ed) path("Packages/com.unity.inputsystem/InputSystem/Devices/Commands/QueryKeyNameCommand.cs") state(2)
+Script is not up to date after domain reload: guid(060ae4265f580481f9bc2f2e7ab367ef) path("Packages/com.unity.inputsystem/InputSystem/Editor/AssetEditor/PropertiesViewBase.cs") state(2)
+Script is not up to date after domain reload: guid(47e42d28cda46b34cb7f8804e6db4c25) path("Packages/com.unity.inputsystem/InputSystem/Plugins/UI/BaseInputOverride.cs") state(2)
+Script is not up to date after domain reload: guid(864a08de8a08473ebf82029d80696449) path("Packages/com.unity.inputsystem/InputSystem/Devices/Keyboard.cs") state(2)
+Script is not up to date after domain reload: guid(f5899dcacd4e3004eaa9107c97e75e09) path("Packages/com.unity.inputsystem/InputSystem/Controls/InputControlLayoutChange.cs") state(2)
+Script is not up to date after domain reload: guid(6f91aa063fcc645ea8061ce0ae4f6f2b) path("Packages/com.unity.inputsystem/InputSystem/Plugins/WebGL/WebGLJoystick.cs") state(2)
+Script is not up to date after domain reload: guid(6e6d0cbdd012f434392878fdc293f974) path("Packages/com.unity.inputsystem/InputSystem/Devices/Commands/QueryEnabledStateCommand.cs") state(2)
+Script is not up to date after domain reload: guid(9e082355c53c54d19a09c1d4f7629360) path("Packages/com.unity.inputsystem/InputSystem/Utilities/JsonParser.cs") state(2)
+Script is not up to date after domain reload: guid(aa489f950f62d2948a1d96092e5a708a) path("Packages/com.unity.inputsystem/InputSystem/Plugins/UI/UISupport.cs") state(2)
+Script is not up to date after domain reload: guid(86b230bdbb8ce487882861a17e6d2bde) path("Packages/com.unity.inputsystem/InputSystem/Plugins/PlayerInput/PlayerJoinBehavior.cs") state(2)
+Script is not up to date after domain reload: guid(ba025c1c816ba7c42a1d28f1cefb9c66) path("Packages/com.unity.inputsystem/InputSystem/IInputDiagnostics.cs") state(2)
+Script is not up to date after domain reload: guid(b5256e0d1ebecc84d98a4001ab63d5b8) path("Packages/com.unity.inputsystem/InputSystem/Controls/InputControlLayoutAttribute.cs") state(2)
+Script is not up to date after domain reload: guid(bb7aebed4ffd404da3399f60b272c7ee) path("Packages/com.unity.inputsystem/InputSystem/Devices/IInputUpdateCallbackReceiver.cs") state(2)
+Script is not up to date after domain reload: guid(caf772fd9b5b4840b7b0014d0616290d) path("Packages/com.unity.inputsystem/InputSystem/Events/InputEventPtr.cs") state(2)
+Script is not up to date after domain reload: guid(0c8442e8094ce974598eacc0302ddabb) path("Packages/com.unity.inputsystem/InputSystem/Plugins/Android/AndroidSupport.cs") state(2)
+Script is not up to date after domain reload: guid(decf522e52f74f9e80b4dc87986cca70) path("Packages/com.unity.inputsystem/InputSystem/InputUpdateType.cs") state(2)
+Script is not up to date after domain reload: guid(d806525c0444400588f5a7800297b7b5) path("Packages/com.unity.inputsystem/InputSystem/Devices/Pointer.cs") state(2)
+Script is not up to date after domain reload: guid(eb55afc2c109f42f2af37941a8c9300e) path("Packages/com.unity.inputsystem/InputSystem/Editor/AssetEditor/InputActionEditorWindow.cs") state(2)
+Script is not up to date after domain reload: guid(7eca76cf669745feb0c71655dbad352f) path("Packages/com.unity.inputsystem/InputSystem/Utilities/TypeHelpers.cs") state(2)
+Script is not up to date after domain reload: guid(49207568c569440f97a5bfe8b4144a16) path("Packages/com.unity.inputsystem/InputSystem/Actions/InputBinding.cs") state(2)
+Script is not up to date after domain reload: guid(c632b886b4d04e6b856720556b399ffe) path("Packages/com.unity.inputsystem/InputSystem/Events/DeltaStateEvent.cs") state(2)
+Script is not up to date after domain reload: guid(4e9c0b68df9234a0bad68ad7e0391330) path("Packages/com.unity.inputsystem/InputSystem/Actions/Composites/Vector2Composite.cs") state(2)
+Script is not up to date after domain reload: guid(6873ac51fc9d6dc4dbb6d9dc77a5eb49) path("Packages/com.unity.inputsystem/InputSystem/Devices/Commands/SetIMECursorPositionCommand.cs") state(2)
+Script is not up to date after domain reload: guid(8a2cdc9fdde66bb49afa0763a7557ff9) path("Packages/com.unity.inputsystem/InputSystem/Plugins/XR/Devices/OpenVR.cs") state(2)
+Script is not up to date after domain reload: guid(0c43a6876f1eb4fdf8b9dc2fee926776) path("Packages/com.unity.inputsystem/InputSystem/Actions/InputActionProperty.cs") state(2)
+Script is not up to date after domain reload: guid(7bef150b341c4d0dbab3db81ccf2ea81) path("Packages/com.unity.inputsystem/InputSystem/Plugins/Steam/SteamSupport.cs") state(2)
+Script is not up to date after domain reload: guid(8d76c8b08c287594c9bf5d6c70fb8699) path("Packages/com.unity.inputsystem/InputSystem/Devices/Commands/EnableDeviceCommand.cs") state(2)
+Script is not up to date after domain reload: guid(46f02abeca624ce68874afdbb77c9be0) path("Packages/com.unity.inputsystem/InputSystem/InputManager.cs") state(2)
+Script is not up to date after domain reload: guid(2539bd7bca18c47e5a76ad1471ed6829) path("Packages/com.unity.inputsystem/InputSystem/Editor/PropertyDrawers/InputActionDrawer.cs") state(2)
+Script is not up to date after domain reload: guid(3afbef7bebf197d43b2352b971a4e15f) path("Packages/com.unity.inputsystem/InputSystem/Actions/Interactions/SlowTapInteraction.cs") state(2)
+Script is not up to date after domain reload: guid(073f4378d59364199ae19d0486842726) path("Packages/com.unity.inputsystem/Tests/TestFixture/InputTestRuntime.cs") state(2)
+Script is not up to date after domain reload: guid(681942113a3d6460a90af134a86edb78) path("Packages/com.unity.inputsystem/InputSystem/Controls/Processors/ScaleVector3Processor.cs") state(2)
+Script is not up to date after domain reload: guid(68e8070c85d3c4544a527f58641b95c0) path("Packages/com.unity.inputsystem/InputSystem/AssemblyInfo.cs") state(2)
+Script is not up to date after domain reload: guid(0dd5cd31dc0a44e8979c69bd6ef78686) path("Packages/com.unity.inputsystem/InputSystem/Plugins/XInput/XInputSupport.cs") state(2)
+Script is not up to date after domain reload: guid(a9be5e04bc92741ccbe2c262bfaa517f) path("Packages/com.unity.inputsystem/InputSystem/Plugins/XR/XRSupport.cs") state(2)
+Script is not up to date after domain reload: guid(9e1e1ebbe5ff04f03bf06ab5398454cf) path("Packages/com.unity.inputsystem/InputSystem/Editor/AssetEditor/InputActionEditorToolbar.cs") state(2)
+Script is not up to date after domain reload: guid(a625f902f77154d94aa57ae7872317ac) path("Packages/com.unity.inputsystem/InputSystem/IInputRuntime.cs") state(2)
+Script is not up to date after domain reload: guid(6887ac562f464a329bc468158dbbf18f) path("Packages/com.unity.inputsystem/InputSystem/Controls/Processors/ClampProcessor.cs") state(2)
+Script is not up to date after domain reload: guid(e8df62e96c8524c2a89b7af40ee100e9) path("Packages/com.unity.inputsystem/InputSystem/Editor/Settings/InputSettingsProvider.cs") state(2)
+Script is not up to date after domain reload: guid(aad56faafe6d9d3458c93a9e43759461) path("Packages/com.unity.inputsystem/InputSystem/Devices/Commands/DisableDeviceCommand.cs") state(2)
+Script is not up to date after domain reload: guid(aa58e874cb4143ad884b8da2bb3f0d7a) path("Packages/com.unity.inputsystem/InputSystem/Editor/Internal/InputControlTreeView.cs") state(2)
+Script is not up to date after domain reload: guid(d717b0e790ee146dd93d1be641984b6a) path("Packages/com.unity.inputsystem/InputSystem/Utilities/ExceptionHelpers.cs") state(2)
+Script is not up to date after domain reload: guid(2ab54adba6d259742a9022c514b04149) path("Packages/com.unity.inputsystem/InputSystem/Plugins/Linux/SDLDeviceBuilder.cs") state(2)
+Script is not up to date after domain reload: guid(a8cfbe75f80984c1d9700ef41f6e2aeb) path("Packages/com.unity.inputsystem/InputSystem/Controls/InputControlExtensions.cs") state(2)
+Script is not up to date after domain reload: guid(0ffbcc8a975d04f12967a085a10aeb7b) path("Packages/com.unity.inputsystem/InputSystem/Utilities/NameAndParameters.cs") state(2)
+Script is not up to date after domain reload: guid(78dcfd26eada049b0840e276bd029712) path("Packages/com.unity.inputsystem/InputSystem/Plugins/PlayerInput/PlayerInputEditor.cs") state(2)
+Script is not up to date after domain reload: guid(854faad156b245d4b50a15e233e9ad55) path("Packages/com.unity.inputsystem/InputSystem/Controls/StickControl.cs") state(2)
+Script is not up to date after domain reload: guid(3e9857b4032c493aa79e61db86f9e09b) path("Packages/com.unity.inputsystem/InputSystem/Controls/QuaternionControl.cs") state(2)
+Script is not up to date after domain reload: guid(57f4c22a7e71744499d25ed776ef6cf2) path("Packages/com.unity.inputsystem/InputSystem/Editor/AssetImporter/InputActionAssetEditor.cs") state(2)
+Script is not up to date after domain reload: guid(9858d4c8055fd45539a2e86388f7c5ba) path("Packages/com.unity.inputsystem/InputSystem/Editor/DownloadableSample.cs") state(2)
+Script is not up to date after domain reload: guid(c77cd15ef9ca14d3e928d192049c276d) path("Packages/com.unity.inputsystem/InputSystem/Actions/InputActionChange.cs") state(2)
+Script is not up to date after domain reload: guid(c7225419e3d446c5982afd5ba9cce319) path("Packages/com.unity.inputsystem/InputSystem/Plugins/DualShock/DualShockGamepadHID.cs") state(2)
+Script is not up to date after domain reload: guid(a653ebc2c02d545f581079cf4bbb0cd9) path("Packages/com.unity.inputsystem/InputSystem/InputAnalytics.cs") state(2)
+Script is not up to date after domain reload: guid(4b0617d4946754ab980342582b1f560c) path("Packages/com.unity.inputsystem/InputSystem/Editor/Internal/AdvancedDropdown/AdvancedDropdown.cs") state(2)
+Script is not up to date after domain reload: guid(fc1515ab76e54f068e2f2207940fab32) path("Packages/com.unity.inputsystem/InputSystem/Actions/InputActionReference.cs") state(2)
+Script is not up to date after domain reload: guid(cf624ae4ff5e44cebdcba54ae1ff380a) path("Packages/com.unity.inputsystem/InputSystem/Controls/CommonUsages.cs") state(2)
+Script is not up to date after domain reload: guid(dda83392ceab4fddbb9f3c7dd5edde62) path("Packages/com.unity.inputsystem/InputSystem/Events/TextEvent.cs") state(2)
+Script is not up to date after domain reload: guid(3894aabfd6ab70245859fa873e1a6552) path("Packages/com.unity.inputsystem/InputSystem/Devices/Commands/SetSamplingFrequencyCommand.cs") state(2)
+Script is not up to date after domain reload: guid(4ab0ce1980d384014be67a2d135ed92c) path("Packages/com.unity.inputsystem/InputSystem/Controls/Processors/InvertVector2Processor.cs") state(2)
+Script is not up to date after domain reload: guid(250f0b2038f8466aaa09814a4b1c5f46) path("Packages/com.unity.inputsystem/InputSystem/Devices/InputDevice.cs") state(2)
+Script is not up to date after domain reload: guid(7d7a42e3bb8b4c0f877cbe19718a4103) path("Packages/com.unity.inputsystem/InputSystem/Controls/KeyControl.cs") state(2)
+Script is not up to date after domain reload: guid(fa26399d579948dd90c6ff298cdb0570) path("Packages/com.unity.inputsystem/InputSystem/Plugins/DualShock/DualShockSupport.cs") state(2)
+Script is not up to date after domain reload: guid(bb83bbf668a324899963d1ea424c5ad0) path("Packages/com.unity.inputsystem/InputSystem/Utilities/DelegateHelpers.cs") state(2)
+Script is not up to date after domain reload: guid(1ab470181bfe4ba891e0d1584730fc4c) path("Packages/com.unity.inputsystem/InputSystem/Controls/DiscreteButtonControl.cs") state(2)
+Script is not up to date after domain reload: guid(ab9baa68d9998419ba6b1bd76b11b630) path("Packages/com.unity.inputsystem/InputSystem/Plugins/Steam/SteamController.cs") state(2)
+Script is not up to date after domain reload: guid(6d671947d51444fb9b8a4bf96c16bfed) path("Packages/com.unity.inputsystem/InputSystem/Editor/Internal/EditorHelpers.cs") state(2)
+Script is not up to date after domain reload: guid(8b78cdd0ba4454fd69b2be04e825d921) path("Packages/com.unity.inputsystem/InputSystem/Controls/Processors/NormalizeVector3Processor.cs") state(2)
+Script is not up to date after domain reload: guid(2e3ecb5c3d351df489bd05ac1d820a6a) path("Packages/com.unity.inputsystem/InputSystem/Controls/TouchPhaseControl.cs") state(2)
+Script is not up to date after domain reload: guid(551b733126e34f71a7294051cf2bfc0b) path("Packages/com.unity.inputsystem/InputSystem/Controls/AxisControl.cs") state(2)
+Script is not up to date after domain reload: guid(3ec5135f9c8612d42a83f87500580afa) path("Packages/com.unity.inputsystem/InputSystem/Utilities/TypeTable.cs") state(2)
+Script is not up to date after domain reload: guid(96bf34fe183cd4ce986db61a6639cd5b) path("Packages/com.unity.inputsystem/InputSystem/Controls/Processors/ScaleVector2Processor.cs") state(2)
+Script is not up to date after domain reload: guid(caeab4c8826564dfda5e44a7e01a8de1) path("Packages/com.unity.inputsystem/InputSystem/Editor/Internal/AdvancedDropdown/MultiLevelDataSource.cs") state(2)
+Script is not up to date after domain reload: guid(35b7608ac9ab8464280c16fa4adc02f1) path("Packages/com.unity.inputsystem/InputSystem/State/IInputStateCallbackReceiver.cs") state(2)
+Script is not up to date after domain reload: guid(3c197002ad4232e46b0c55f74469fa03) path("Packages/com.unity.inputsystem/InputSystem/Plugins/Switch/SwitchProControllerHID.cs") state(2)
+Script is not up to date after domain reload: guid(6c784a1510a154625903484b84c8ddaf) path("Packages/com.unity.inputsystem/InputSystem/Devices/Commands/QueryUserIdCommand.cs") state(2)
+Script is not up to date after domain reload: guid(2f971d46c202b4b7a90865bf5600683f) path("Packages/com.unity.inputsystem/InputSystem/Plugins/Steam/SteamHandle.cs") state(2)
+Script is not up to date after domain reload: guid(2ade21199e79d394ab34f4e6887f1c09) path("Packages/com.unity.inputsystem/InputSystem/Plugins/XR/Haptics/GetHapticCapabilitiesCommand.cs") state(2)
+Script is not up to date after domain reload: guid(888687b767334731951f3f18ffef0b75) path("Packages/com.unity.inputsystem/InputSystem/Utilities/ArrayHelpers.cs") state(2)
+Script is not up to date after domain reload: guid(f61b0e35037644f37b6ac81513577c50) path("Packages/com.unity.inputsystem/InputSystem/Editor/Internal/AdvancedDropdown/AdvancedDropdownState.cs") state(2)
+Script is not up to date after domain reload: guid(6efadb7e1c29b4055adbd232610a4179) path("Packages/com.unity.inputsystem/InputSystem/Actions/InputBindingComposite.cs") state(2)
+Script is not up to date after domain reload: guid(0e297b4219a224ba5bcb4f9293e26ea9) path("Packages/com.unity.inputsystem/InputSystem/Actions/IInputActionCollection.cs") state(2)
+Script is not up to date after domain reload: guid(0e0c005ff24ec4cfb951eefa16239b9b) path("Packages/com.unity.inputsystem/InputSystem/Utilities/NamedValue.cs") state(2)
+Script is not up to date after domain reload: guid(9af5cfc54cf34eb1ac27c9c90a9a7440) path("Packages/com.unity.inputsystem/InputSystem/Events/DeviceRemoveEvent.cs") state(2)
+Script is not up to date after domain reload: guid(3d2dbd5e535742a18f979fdaa69e3627) path("Packages/com.unity.inputsystem/InputSystem/Plugins/XInput/IXboxOneRumble.cs") state(2)
+Script is not up to date after domain reload: guid(ef73fbf6f536c4184845d789870911a3) path("Packages/com.unity.inputsystem/InputSystem/Plugins/XInput/XboxGamepadMacOS.cs") state(2)
+Script is not up to date after domain reload: guid(db7a158b580fb4518ae82aa029a54892) path("Packages/com.unity.inputsystem/InputSystem/Editor/ControlPicker/InputControlPickerDropdown.cs") state(2)
+Script is not up to date after domain reload: guid(ce1664b057efc40759e0da41d54e3e4e) path("Packages/com.unity.inputsystem/InputSystem/Plugins/Users/InputUserChange.cs") state(2)
+Script is not up to date after domain reload: guid(bca227b3a59246a197db2ff52b862072) path("Packages/com.unity.inputsystem/InputSystem/Plugins/UI/ExtendedPointerEventData.cs") state(2)
+Script is not up to date after domain reload: guid(ede17f8b7e9dfcf42b560545a8102eeb) path("Packages/com.unity.inputsystem/InputSystem/Plugins/Android/AndroidKeyCode.cs") state(2)
+Script is not up to date after domain reload: guid(4eac2aa5bc9a4fc1b87308eec2acf8b1) path("Packages/com.unity.inputsystem/InputSystem/Devices/Pen.cs") state(2)
+Script is not up to date after domain reload: guid(dfa8add0e3ed349708aeadc8b8c1ad0f) path("Packages/com.unity.inputsystem/InputSystem/Editor/ControlPicker/InputControlPickerState.cs") state(2)
+Script is not up to date after domain reload: guid(5b23e3210ca74ea9ae4fe882b9bce278) path("Packages/com.unity.inputsystem/InputSystem/Events/InputEventTrace.cs") state(2)
+Script is not up to date after domain reload: guid(d8ce1fd8f845226439f6b4ee991c9f78) path("Packages/com.unity.inputsystem/InputSystem/Devices/Commands/QueryDimensionsCommand.cs") state(2)
+Script is not up to date after domain reload: guid(3c764fcc1188a6e489f8c305ff4077a6) path("Packages/com.unity.inputsystem/InputSystem/Devices/Commands/QueryEditorWindowCoordinatesCommand.cs") state(2)
+Script is not up to date after domain reload: guid(7c93968c9be74a1fa43a3dad5eed4cbd) path("Packages/com.unity.inputsystem/InputSystem/Editor/Internal/InputActionSerializationHelpers.cs") state(2)
+Script is not up to date after domain reload: guid(a7c6472eb810ba445be34c69325e4fea) path("Packages/com.unity.inputsystem/InputSystem/Plugins/Android/AndroidGameController.cs") state(2)
+Script is not up to date after domain reload: guid(ba2c9cc57fa154716b6f077bf9c1c193) path("Packages/com.unity.inputsystem/InputSystem/Editor/PropertyDrawers/InputActionDrawerBase.cs") state(2)
+Script is not up to date after domain reload: guid(4f7d29e15c49c49499875a6a2378f2a4) path("Packages/com.unity.inputsystem/InputSystem/Editor/InputParameterEditor.cs") state(2)
+Script is not up to date after domain reload: guid(a736049645e8c4781aedf679c2ee6be6) path("Packages/com.unity.inputsystem/InputSystem/Plugins/HID/HIDParser.cs") state(2)
+Script is not up to date after domain reload: guid(5f84d6a1bd34ea6428fa1db0e9f459cb) path("Packages/com.unity.inputsystem/InputSystem/Plugins/XR/Haptics/SendHapticImpulseCommand.cs") state(2)
+Script is not up to date after domain reload: guid(f617c1bc34684f738c0d2cb4d0650f35) path("Packages/com.unity.inputsystem/InputSystem/Devices/Remote/InputRemoting.cs") state(2)
+Script is not up to date after domain reload: guid(4cc0c6a7fa1c14a518fec64497f4937f) path("Packages/com.unity.inputsystem/InputSystem/Plugins/EnhancedTouch/TouchHistory.cs") state(2)
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.15 seconds
+Refreshing native plugins compatible for Editor in 1.56 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 4553 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 173.1 MB.
+System memory in use after: 173.2 MB.
+
+Unloading 27 unused Assets to reduce memory usage. Loaded Objects now: 5006.
+Total: 7.829300 ms (FindLiveObjects: 0.734700 ms CreateObjectMapping: 0.689800 ms MarkObjects: 6.153200 ms  DeleteObjects: 0.249200 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.006130 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\Users\rishi\Desktop\Hitch-A-Ride\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image C:\Users\rishi\Desktop\Hitch-A-Ride\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for LinuxStandalone target not found
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 246.08 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.796 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 1.12 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 4688 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 172.5 MB.
+System memory in use after: 172.6 MB.
+
+Unloading 14 unused Assets to reduce memory usage. Loaded Objects now: 5198.
+Total: 3.665900 ms (FindLiveObjects: 0.486200 ms CreateObjectMapping: 0.431300 ms MarkObjects: 2.609100 ms  DeleteObjects: 0.138000 ms)
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
