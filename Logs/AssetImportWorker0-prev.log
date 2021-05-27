@@ -15,11 +15,11 @@ C:/Users/rishi/Desktop/Hitch-A-Ride
 -logFile
 Logs/AssetImportWorker0.log
 -srvPort
-57469
+52106
 Successfully changed project path to: C:/Users/rishi/Desktop/Hitch-A-Ride
 C:/Users/rishi/Desktop/Hitch-A-Ride
 Using Asset Import Pipeline V2.
-Refreshing native plugins compatible for Editor in 366.73 ms, found 2 plugins.
+Refreshing native plugins compatible for Editor in 248.89 ms, found 2 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Initialize engine version: 2021.1.7f1 (d91830b65d9b)
 [Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2021.1.7f1/Editor/Data/Resources/UnitySubsystems
@@ -36,25 +36,25 @@ Initialize mono
 Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2021.1.7f1/Editor/Data/Managed'
 Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2021.1.7f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
 Mono config path = 'C:/Program Files/Unity/Hub/Editor/2021.1.7f1/Editor/Data/MonoBleedingEdge/etc'
-Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56644
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56016
 Begin MonoManager ReloadAssembly
 Registering precompiled unity dll's ...
 Register platform support module: C:/Program Files/Unity/Hub/Editor/2021.1.7f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
 Register platform support module: C:/Program Files/Unity/Hub/Editor/2021.1.7f1/Editor/Data/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll
 Register platform support module: C:/Program Files/Unity/Hub/Editor/2021.1.7f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
 Register platform support module: C:/Program Files/Unity/Hub/Editor/2021.1.7f1/Editor/Data/PlaybackEngines/LinuxStandaloneSupport/UnityEditor.LinuxStandalone.Extensions.dll
-Registered in 0.008703 seconds.
+Registered in 0.006444 seconds.
 Native extension for LinuxStandalone target not found
 Native extension for WindowsStandalone target not found
 Native extension for OSXStandalone target not found
 Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 211.11 ms, found 2 plugins.
+Refreshing native plugins compatible for Editor in 278.53 ms, found 2 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  7.451 seconds
+- Completed reload, in  3.527 seconds
 Platform modules already initialized, skipping
 Registering precompiled user dll's ...
-Registered in 0.009369 seconds.
+Registered in 0.005115 seconds.
 Begin MonoManager ReloadAssembly
 Symbol file LoadedFromMemory doesn't match image C:\Users\rishi\Desktop\Hitch-A-Ride\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
 Symbol file LoadedFromMemory doesn't match image C:\Users\rishi\Desktop\Hitch-A-Ride\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
@@ -62,39 +62,116 @@ Native extension for LinuxStandalone target not found
 Native extension for WindowsStandalone target not found
 Native extension for OSXStandalone target not found
 Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 385.52 ms, found 2 plugins.
+Refreshing native plugins compatible for Editor in 239.68 ms, found 2 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  5.754 seconds
+- Completed reload, in  2.368 seconds
 Platform modules already initialized, skipping
 ========================================================================
 Worker process is ready to serve import requests
 Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
-Launched and connected shader compiler UnityShaderCompiler.exe after 0.10 seconds
-Refreshing native plugins compatible for Editor in 1.33 ms, found 2 plugins.
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.07 seconds
+Refreshing native plugins compatible for Editor in 1.19 ms, found 2 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Unloading 5384 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 204.2 MB.
-System memory in use after: 204.5 MB.
+System memory in use before: 204.3 MB.
+System memory in use after: 204.6 MB.
 
 Unloading 29 unused Assets to reduce memory usage. Loaded Objects now: 5840.
-Total: 5.473900 ms (FindLiveObjects: 0.585200 ms CreateObjectMapping: 0.477800 ms MarkObjects: 4.211200 ms  DeleteObjects: 0.197800 ms)
+Total: 4.953500 ms (FindLiveObjects: 0.556700 ms CreateObjectMapping: 0.419300 ms MarkObjects: 3.811400 ms  DeleteObjects: 0.164600 ms)
 
 ========================================================================
 Received Import Request.
-  path: Assets/Art/coracaozinho-para-o-luiz-otavio.svg
-  artifactKey: Guid(7f27e40e838b510468d6ee27b2e6bd6c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Art/coracaozinho-para-o-luiz-otavio.svg using Guid(7f27e40e838b510468d6ee27b2e6bd6c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1c3c9d0fd66916d206df8e0757072734') in 0.406966 seconds 
+  path: Assets/Audio
+  artifactKey: Guid(a07c0089534792f4cb7e18fd9648b83f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio using Guid(a07c0089534792f4cb7e18fd9648b83f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '539a7c545d66591f73674fc11bf7838e') in 0.020574 seconds 
 ========================================================================
 Received Import Request.
-  Time since last request: 59.498635 seconds.
-  path: Assets/Art/coracaozinho-para-o-luiz-otavio.svg
-  artifactKey: Guid(7f27e40e838b510468d6ee27b2e6bd6c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Art/coracaozinho-para-o-luiz-otavio.svg using Guid(7f27e40e838b510468d6ee27b2e6bd6c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ba4d940c14e80c0f4271d410f553ec4e') in 0.052982 seconds 
+  Time since last request: 0.000536 seconds.
+  path: Assets/Audio/Music/Heroic Intrusion.ogg
+  artifactKey: Guid(eb5279c2ca905ae42a018a3ccdd776af) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/Music/Heroic Intrusion.ogg using Guid(eb5279c2ca905ae42a018a3ccdd776af) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd88f2f6d640a48826e3338964abaac51') in 0.234027 seconds 
 ========================================================================
 Received Import Request.
-  Time since last request: 39.090587 seconds.
+  Time since last request: 0.000386 seconds.
+  path: Assets/Audio/Music
+  artifactKey: Guid(740fa8de23332f344ab435427b97e94b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/Music using Guid(740fa8de23332f344ab435427b97e94b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2746e78d967017c3cdd8d75f7a30cf14') in 0.015505 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 122.679737 seconds.
+  path: Assets/Joystick Pack/Examples
+  artifactKey: Guid(5a71259a40885244a8fda03175513ba5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Joystick Pack/Examples using Guid(5a71259a40885244a8fda03175513ba5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3960a0b5324a394df56060d477d3f829') in 0.021383 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 7.035596 seconds.
+  path: Assets/Joystick Pack/Scripts/Base
+  artifactKey: Guid(04bf1fec540b6ee4987dc6524756477c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Joystick Pack/Scripts/Base using Guid(04bf1fec540b6ee4987dc6524756477c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0a9986159899211dc4a52c9abea948cc') in 0.011102 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 4.261796 seconds.
+  path: Assets/Joystick Pack/Scripts/Base/Joystick.cs
+  artifactKey: Guid(b9fca4100a7477741b3973b4ff2c405f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Joystick Pack/Scripts/Base/Joystick.cs using Guid(b9fca4100a7477741b3973b4ff2c405f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c6c8392d31d38d5bcfadc617c7f61c94') in 0.015892 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.013378 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\Users\rishi\Desktop\Hitch-A-Ride\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image C:\Users\rishi\Desktop\Hitch-A-Ride\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for LinuxStandalone target not found
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 1.53 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.595 seconds
+Platform modules already initialized, skipping
+Switching build target platform(19) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(537395200) extendedPlatform(0)
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.97 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 5265 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 200.1 MB.
+System memory in use after: 200.4 MB.
+
+Unloading 16 unused Assets to reduce memory usage. Loaded Objects now: 5853.
+Total: 5.279100 ms (FindLiveObjects: 0.509400 ms CreateObjectMapping: 0.767500 ms MarkObjects: 3.879900 ms  DeleteObjects: 0.120800 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+========================================================================
+Received Import Request.
+  Time since last request: 236.979600 seconds.
   path: Assets/Art/coracaozinho-para-o-luiz-otavio.svg
-  artifactKey: Guid(7f27e40e838b510468d6ee27b2e6bd6c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Art/coracaozinho-para-o-luiz-otavio.svg using Guid(7f27e40e838b510468d6ee27b2e6bd6c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '78d4ad168e41ee9858e6e1ce4da98d34') in 0.026754 seconds 
+  artifactKey: Guid(0922a8c61a14a984c9e71347709694d5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/coracaozinho-para-o-luiz-otavio.svg using Guid(0922a8c61a14a984c9e71347709694d5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '72dcb7e26969d5a73cd8258227bc6c9e') in 0.792089 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 60.615889 seconds.
+  path: Assets/Art/coracaozinho-para-o-luiz-otavio.svg
+  artifactKey: Guid(0922a8c61a14a984c9e71347709694d5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/coracaozinho-para-o-luiz-otavio.svg using Guid(0922a8c61a14a984c9e71347709694d5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b72eef5dd4226aae0b620bd686fddf57') in 0.040023 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 86.477200 seconds.
+  path: Assets/Art/coracaozinho-para-o-luiz-otavio.svg
+  artifactKey: Guid(0922a8c61a14a984c9e71347709694d5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/coracaozinho-para-o-luiz-otavio.svg using Guid(0922a8c61a14a984c9e71347709694d5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9c4155427abed5344314c447b3e7e2ee') in 0.032405 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 231.132172 seconds.
+  path: Assets/Canvas.prefab
+  artifactKey: Guid(215fd5aff7f18b5428af75de9faade9e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Canvas.prefab using Guid(215fd5aff7f18b5428af75de9faade9e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd2892611d7338420264cbd0ce5a3af28') in 0.033393 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 18.334324 seconds.
+  path: Assets/DefaultUI.prefab
+  artifactKey: Guid(215fd5aff7f18b5428af75de9faade9e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DefaultUI.prefab using Guid(215fd5aff7f18b5428af75de9faade9e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd6842cd5a495c063d0ee7acfa10819b5') in 0.016802 seconds 
 AssetImportWorkerClient::OnTransportError - code=2 error=End of file
